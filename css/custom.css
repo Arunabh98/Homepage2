@@ -1,0 +1,12 @@
+.navbar-text > a {
+	color:inherit;
+	text-decoration: none;
+	padding-right: 1em;
+}
+body {
+	padding-top: 5em;
+	padding-bottom: 10em;
+}
+.as {
+	font-family: 'Coming Soon', cursive;
+}

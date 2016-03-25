@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>19</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>xlr8 slider</GalleryName>
+            <GallerySuffix>0</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>louvers</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/sky/</ImageTemplate>
+            <ImageTemplateName>Sky</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Arunabh/Desktop/Arunabh/bootstrap-3.3.6-dist/xlr8.html</PublishFileName>
+            <PublishIndex>xlr8.html</PublishIndex>
+            <PublishPath>C:/Users/Arunabh/Desktop/Arunabh/bootstrap-3.3.6-dist</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Open Sans</TemplateFont>
+            <TemplateName>sky</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Arunabh/Desktop/Arunabh/bootstrap-3.3.6-dist/img/xlr8/IMG_20150816_131913.jpg</url>
+                <title>Work Going on</title>
+                <filesize>3174490</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Arunabh/Desktop/Arunabh/bootstrap-3.3.6-dist/img/xlr8/IMG_20150816_131932.jpg</url>
+                <title>Focus on the Drilling!</title>
+                <filesize>3229501</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Arunabh/Desktop/Arunabh/bootstrap-3.3.6-dist/img/xlr8/IMG_20150816_132338.jpg</url>
+                <title>Fitting the Wheels</title>
+                <filesize>3393857</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Arunabh/Desktop/Arunabh/bootstrap-3.3.6-dist/img/xlr8/IMG_20150816_222653.jpg</url>
+                <title>First time experience in Soldering</title>
+                <filesize>2995955</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Arunabh/Desktop/Arunabh/bootstrap-3.3.6-dist/img/xlr8/IMG_20150822_201721.jpg</url>
+                <title>Almost Finished</title>
+                <filesize>3218019</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Arunabh/Desktop/Arunabh/bootstrap-3.3.6-dist/img/xlr8/IMG_20150822_201728.jpg</url>
+                <title>Team Photo!!</title>
+                <filesize>3210804</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Arunabh/Desktop/Arunabh/bootstrap-3.3.6-dist/img/xlr8/IMG_20150822_223512.jpg</url>
+                <title>Its Ready to Roll!!</title>
+                <filesize>3074907</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Arunabh/Desktop/Arunabh/bootstrap-3.3.6-dist/img/xlr8/IMG_20150822_223531.jpg</url>
+                <title>Mission Sucessful.</title>
+                <filesize>3122940</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
